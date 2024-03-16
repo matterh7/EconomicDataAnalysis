@@ -17,4 +17,5 @@ Hence, the increased demand for U.S. dollars raises the price of a dollar in tha
 From the export lens, countries that would want industries to expand their export markets could possibly benefit from depreciation of a currency,because foreign consumers would be able to buy or import goods from that country at a lower cost. <br/>
 
 In this notebook, I try to analyse the inflation(through the annual consumer price index) and the USD exchange rates of a number of African countries(between 2000 and 2014) to explore possible correlations between exchange rates and inflation <br/>
-For this analysis, I used linear regression (assuming a possible linear relationship between these two variables) and calculate the r^2 values for the different countries to see if this relationship holds true for all countries or if it deviates in other countries. <br/>
+For this analysis, I used linear regression (assuming a possible linear relationship between these two variables) and calculated Pearson correlation values for the different countries to see if this relationship holds true for all countries or if it deviates in other countries. <br/>
+
